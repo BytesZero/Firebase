@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Firebase</string>
+    <!--横幅广告id-->
+    <string name="banner_ad_unit_id">ca-app-pub-6711185845537645/1337920619</string>
+    <!--插页广告id-->
+    <string name="insert_ad_unit_id">ca-app-pub-6711185845537645/1499371010</string>
+    <!--原生广告id-->
+    <string name="native_ad_unit_id">ca-app-pub-6711185845537645/6847900612</string>
 </resources>
