@@ -35,7 +35,7 @@
         android:id="@+id/main_neadv_native"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        ads:adSize="320x150"
+        ads:adSize="360x132"
         ads:adUnitId="@string/native_ad_unit_id" />
 
 </LinearLayout>
