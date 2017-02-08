@@ -5,5 +5,5 @@
     <!--插页广告id-->
     <string name="insert_ad_unit_id">ca-app-pub-6711185845537645/1499371010</string>
     <!--原生广告id-->
-    <string name="native_ad_unit_id">ca-app-pub-6711185845537645/6847900612</string>
+    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2177258514</string>
 </resources>

@@ -123,15 +123,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-        //创建原生广告请求
-        AdRequest adRequestNative = new AdRequest.Builder()
-                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)//所有的模拟器
-                .addTestDevice("74BAABC1A0E77EB8C34896404447DBEC")//nexus 5
-                .addTestDevice("E3A8BB93EE8D9CF7C0B5351AB456C4C5")//我的锤子M1L
-                .build();
         //加载原生广告
-        neadv_native.loadAd(adRequestNative);
+        neadv_native.loadAd(new AdRequest.Builder().build());
     }
 
     /**
